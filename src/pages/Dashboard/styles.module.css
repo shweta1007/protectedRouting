@@ -1,0 +1,12 @@
+.AddBtn{
+    margin: 12px;
+    float: right;
+    width: 125px;
+}
+.box{
+    overflow: hidden;
+}
+.edit:hover{
+    color: blue;
+    cursor: pointer;
+}
